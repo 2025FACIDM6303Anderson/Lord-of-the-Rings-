@@ -36,14 +36,14 @@ Sources: Public domain/educational fair use for course purposes.
 
 
 
-## 🚀 How to View
+##  How to View
 1. Clone or download the repository.  
 2. Open `index.html` in your browser **OR** use VS Code with the Live Server extension.  
 3. Navigate the site using the menu links.
 
 
 
-## 📌 Notes
+## Notes
 - This repository is also part of my coursework submission for CIDM 6303.  
 - Built with human-style coding: clean, readable, and consistent, without auto-generated code.  
 - Structure matches professional web development best practices (images in subfolder, external CSS, semantic HTML).
