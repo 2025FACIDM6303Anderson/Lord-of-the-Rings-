@@ -1,6 +1,6 @@
 # Lord of the Rings Website
 
-This project was created for **CIDM 6303 – Technical Foundations of CIS as Project 1: Build a Website.  
+This project was created for **CIDM 6303 – Technical Foundations of CIS** as **Project 1: Build a Website.**  
 The goal of this assignment was to design a multi-page website using HTML and CSS.
 
 
