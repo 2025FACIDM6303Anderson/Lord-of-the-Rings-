@@ -43,7 +43,6 @@ Sources: Public domain/educational fair use for course purposes.
 
 
 
-## Notes
+## Note
 - This repository is also part of my coursework submission for CIDM 6303.  
-- Built with human-style coding: clean, readable, and consistent, without auto-generated code.  
-- Structure matches professional web development best practices (images in subfolder, external CSS, semantic HTML).
+
