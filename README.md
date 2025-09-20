@@ -34,14 +34,14 @@ Sources: Public domain/educational fair use for course purposes.
   - At least one `<ol>` / `<ul>` and `<hr>` included.
   - Proper use of `<html>`, `<body>`, `<h1>`, `<p>`, `<b>`, `<i>`, `<a>`, `<img>`.
 
----
+
 
 ## 🚀 How to View
 1. Clone or download the repository.  
 2. Open `index.html` in your browser **OR** use VS Code with the Live Server extension.  
 3. Navigate the site using the menu links.
 
----
+
 
 ## 📌 Notes
 - This repository is also part of my coursework submission for CIDM 6303.  
