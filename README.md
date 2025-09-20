@@ -3,9 +3,8 @@
 This project was created for **CIDM 6303 – Technical Foundations of CIS** (Fall 2025) as **Project 1: Build a Website**.  
 The goal of this assignment was to design a multi-page website using **HTML, CSS, and best practices** for web structure and styling.
 
----
 
-## 📖 Project Overview
+## Project Overview
 - **Topic:** The history and lore of Tolkien's *Lord of the Rings* universe.  
 - **Pages:**
   - `index.html` → Homepage introducing the theme.  
@@ -15,9 +14,8 @@ The goal of this assignment was to design a multi-page website using **HTML, CSS
   - `styles.css` handles all visual design (colors, layout, fonts).  
   - Pages use consistent navigation, headings, and formatting.
 
----
 
-## 🖼️ Images
+##  Images
 All images are stored in the `/images` folder:  
 - `elves.jpg` – Awakening of the Elves  
 - `numenor.jpg` – Downfall of Númenor  
@@ -25,9 +23,8 @@ All images are stored in the `/images` folder:
 
 Sources: Public domain/educational fair use for course purposes.
 
----
 
-## 🛠️ Features
+## Features
 - External CSS stylesheet applied to all pages.  
 - Semantic HTML structure with `<main>`, `<header>`, `<nav>`, `<footer>`.  
 - Navigation links included on every page for easy browsing.  
